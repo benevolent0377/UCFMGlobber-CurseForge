@@ -29,6 +29,9 @@ Make a program to get all the mods and place them elegantly in a folder, ready t
 ### Development Roadmap
 [Here](https://app.eraser.io/workspace/g7G715HqqSgiUKHkaym4?origin=share)
 
+### Project ChangeLog
+[Here](https://app.eraser.io/workspace/DSttdeb7KWZKxYPO4sXi?origin=share)
+
 
 
 
