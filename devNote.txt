@@ -1,0 +1,15 @@
+note to other devs:
+
+in order for this program to run, you must have the core files
+
+get them by running 
+
+        python install.py
+
+until it says 
+
+        "checking for updates"
+
+and nothing else.
+
+-0377
