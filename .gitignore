@@ -174,5 +174,5 @@ cython_debug/
 
 
 # core ignore
-#source/core
-#source/core/
+source/core
+source/core/
