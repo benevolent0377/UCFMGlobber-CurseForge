@@ -182,4 +182,3 @@ source/test/
 test/
 source/lib/test/
 test.*
-*.tst.py
