@@ -176,3 +176,10 @@ cython_debug/
 # core ignore
 source/core
 source/core/
+
+# custom exclusions
+source/test/
+test/
+source/lib/test/
+test.*
+*.tst.py
